@@ -1,0 +1,10 @@
+﻿,sample,rep,condition
+S1,WT_1,1,wildtype
+S2,WT_2,2,wildtype
+S3,WT_3,3,wildtype
+S4,hep_1,1,UltraID_heparin
+S5,hep_2,2,UltraID_heparin
+S6,hep_3,3,UltraID_heparin
+S7,ID_1,1,UltraID_rosetting
+S8,ID_2,2,UltraID_rosetting
+S9,ID_3,3,UltraID_rosetting
